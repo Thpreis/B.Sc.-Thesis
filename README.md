@@ -15,4 +15,4 @@ reproduce the density-fluctuation power spectrum in the linear regime of cosmic 
 ture formation as recovered in conventional approaches. The overall behaviour found
 for the non-linear density-fluctuation power spectrum qualitatively agrees with results
 obtained in numerical N-body simulations.
-- **Full text:** [Digital version]https://github.com/Thpreis/B.Sc.-Thesis/blob/master/Bsc_Thesis_ThimoPreis_digital.pdf)
+- **Full text:** [Digital version](https://github.com/Thpreis/B.Sc.-Thesis/blob/master/Bsc_Thesis_ThimoPreis_digital.pdf)
